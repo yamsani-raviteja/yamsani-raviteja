@@ -7,7 +7,7 @@
 
 - 👋 Hey there! I'm **Ravi Teja Yamsani**, a data-driven professional with nearly 4 years of experience in **Cloud Data Engineering**.
 - 🧠 I thrive at the intersection of **data, cloud, and automation**, solving real-world problems with clean, scalable solutions.
-- 🏢 Currently contributing to **Amazon Security Data Lakes**, where I build and optimize large-scale data pipelines.
+- 🏢 Currently contributing to **Amazon Data Lakes**, where I build and optimize large-scale data pipelines.
 - 🛠️ My toolkit includes **Python**, **Scala**, **SQL**, **Apache Spark and Kafka**, **Snowflake**, **Docker** and **AWS services** like Glue, S3, Redshift, Lambda, Athena, SQS, and Step Functions.
 - 📦 Proficient in building **ETL/ELT pipelines**, designing **serverless workflows**, and managing **data lakes & warehouses**.
 - 🤝 I’ve worked in **Agile teams**, collaborated across global functions, and supported **production-grade infrastructure**.
